@@ -1,0 +1,28 @@
+.btn {
+    margin-right: 10px ;
+}
+
+.login button{
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+    font-weight:200 ;
+    color: gray;
+}
+
+.login {
+    justify-content: space-between;
+    float: right;
+    margin-left: 100px;
+    color: gray;
+
+}
+
+.logout {
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+    font-weight:200 ;
+    color: gray;
+
+}
